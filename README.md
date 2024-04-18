@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
-# About
+## About
+
 **Angular Housing Location Application**
 
 This Angular application is designed to provide a hands-on introduction to the Angular framework. It covers fundamental concepts such as:
