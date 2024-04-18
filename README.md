@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
+# About
+**Angular Housing Location Application**
+
+This Angular application is designed to provide a hands-on introduction to the Angular framework. It covers fundamental concepts such as:
+
+* **Component-based architecture**
+* **Routing**
+* **Services**
+* **Interfaces**
+* **HTTP communication**
+* **Form submission**
+
+The application simulates a website where users can browse a list of houses for rent ("housing locations"). They can filter the list by city and view all houses stored in a database (db.json). Clicking on a house opens a details page and a contact form.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
